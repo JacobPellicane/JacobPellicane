@@ -43,7 +43,7 @@ body {
   body, html {
     height: 100%;
     display: flex;
-    justify-content: centr;
+    justify-content: center;
     align-items: center;
     background-color: #f0f0f0;
     font-family: Arial, sans-serif;
@@ -63,7 +63,7 @@ body {
     border: none;
     border-radius: 5px;
     cursor: pointer;
-    text-align: ;
+    text-align:center;
     transition: height 0.3s ease, padding 0.3s ease;
   }
   
