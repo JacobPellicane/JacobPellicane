@@ -72,7 +72,7 @@ body {
 
 /* Show the content when the button is hovered */
 .button:hover + .content { 
-
+display: contents;
 }
 
 
