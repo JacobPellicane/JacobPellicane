@@ -71,9 +71,10 @@ body {
 }
 
 /* Show the content when the button is hovered */
-.button:hover + .content {
-  display:flex;
+.button:hover + .content { 
+
 }
+
 
 </style>
 
